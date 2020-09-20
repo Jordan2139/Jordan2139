@@ -1,16 +1,17 @@
-### Hi there 👋
+# Jordan2139 👋
 
-<!--
-**Jordan2139/Jordan2139** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Socials
+- Twiter 🐦: http://twitter.com/Jordan2139_
+- YouTube ▶️: https://www.youtube.com/channel/UCAO6SYXDcAW994-lN8c5xUw
+- Instagram 📸: https://www.instagram.com/_jordan2139/
 
-Here are some ideas to get you started:
+## Code
+- Public Code 💾: https://github.com/Jordan2139
+- Help 📚: https://www.youtube.com/channel/UCAO6SYXDcAW994-lN8c5xUw
+- Known languages ⌨️: Lua, HTML/CSS, JavaScript, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Random Stuff
+- Buy me redbull 🥤: https://cash.app/$J2139
+- Graduation 🎓: 2023
+- Developer Discord 🔌: https://discord.gg/x7cYjg5
+- Smooth & Groove 🎶: https://bit.ly/2ZWf9rQ
