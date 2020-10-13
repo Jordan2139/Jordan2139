@@ -2,12 +2,12 @@
 
 ## Socials
 - Twiter 🐦: http://twitter.com/Jordan2139_
-- YouTube ▶️: https://www.youtube.com/channel/UCAO6SYXDcAW994-lN8c5xUw
+- YouTube ▶️: https://youtube.com/c/jordan2139
 - Instagram 📸: https://www.instagram.com/_jordan2139/
 
 ## Code
 - Public Code 💾: https://github.com/Jordan2139
-- Help 📚: https://www.youtube.com/channel/UCAO6SYXDcAW994-lN8c5xUw
+- Help 📚: https://youtube.com/c/jordan2139
 - Known languages ⌨️: Lua, HTML/CSS/C#, JavaScript, Python, SQL
 
 ## Random Stuff
