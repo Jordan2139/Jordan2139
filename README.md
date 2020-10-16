@@ -8,7 +8,7 @@
 ## Code
 - Public Code 💾: https://github.com/Jordan2139
 - Help 📚: https://youtube.com/c/jordan2139
-- Known languages ⌨️: Lua, HTML/CSS/C#, JavaScript, Python, SQL
+- Known languages ⌨️: Lua, HTML/CSS/C#, JavaScript, Python, SQL, Java
 
 ## Random Stuff
 - Buy me redbull 🥤: https://cash.app/$J2139
