@@ -17,11 +17,13 @@
 ### Code
 - Help 📚: https://www.youtube.com/c/jordan2139
 - Known languages ⌨️: JavaScript, Lua, C#, HTML/CSS, Java, Python, Node.JS, Markdown
+
 --
 ### Random Stuff
 - Buy me redbull 🥤: https://cash.app/$J2139
 - Graduation 🎓: 2023
 - Smooth & Groove 🎶: https://smoothngroove.net/
+
 --
 ### GitHub Stats
 ![dd](https://github-readme-stats-eight-theta.vercel.app/api?username=Jordan2139&show_icons=true&theme=react&include_all_commits=true&count_private)
