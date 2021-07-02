@@ -14,7 +14,7 @@
 ---
 ### Code
 - Help 📚: https://www.youtube.com/c/jordan2139
-- Known languages ⌨️: JavaScript, Lua, C#, HTML/CSS, Java, Python, Node.JS, Markdown
+- Known languages ⌨️: JavaScript, Lua, C#, HTML/CSS, PHP, Java, Python, Node.JS, Markdown
 ---
 ### Random Stuff
 - Buy me redbull 🥤: https://cash.app/$J2139
