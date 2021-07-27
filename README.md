@@ -1,7 +1,7 @@
 # Hi There! I'm Jordan2139 👋
 
 ### Discords
-[![Developer Discord](https://discordapp.com/api/guilds/696266949348425739/widget.png?style=banner4)](https://discord.com/invite/x7cYjg5)
+[![Developer Discord](https://discordapp.com/api/guilds/830826449630920756/widget.png?style=banner4)](https://discord.gg/KV2zZnjxqq)
 [![Smoothxrd](https://discordapp.com/api/guilds/751909092662181967/widget.png?style=banner4)](https://discord.com/invite/49SrwZD)
 ### Affiliates
 [![ice](https://i.gyazo.com/24c65c27acc53ce0656cda7e7ed29230.gif)](https://iceline.host/jordan2139)
