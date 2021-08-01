@@ -2,7 +2,7 @@
 
 ---
 ```lua
-const Jordan = {
+Jordan = {
   Graduation = 2023,
   Known_Languages = { "JavaScript", "Node.JS", "Express.JS", "MYSQL", "Lua", "C#", "HTML/CSS", "PHP", "Java", "Python" },
   YouTube = "https://www.youtube.com/c/jordan2139",
