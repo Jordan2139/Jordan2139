@@ -12,8 +12,7 @@ const Jordan = {
 }
 
 while BetterThanU do 
-  GetShitOn(lol)
-  print('get better skid')
+  print('get shit on lol')
 end
 ```
 
