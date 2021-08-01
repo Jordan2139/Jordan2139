@@ -30,7 +30,6 @@ end
 ---
 
 ### Affiliates
-[![ice](https://i.gyazo.com/24c65c27acc53ce0656cda7e7ed29230.gif)](https://iceline.host/jordan2139)
 - Use code `Jordan2139` at https://iceline.host/jordan2139 for `15% off` your first month of any service (excluding dedicated servers)
 
 ---
