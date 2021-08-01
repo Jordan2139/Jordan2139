@@ -28,7 +28,7 @@ end
 
 ---
 
-### Use code `Jordan2139` at https://iceline.host/jordan2139 for `15% off` your first month of any service (excluding dedicated servers)
+### Use code `Jordan2139` at https://iceline.host/jordan2139 for `15% off` your first month
 
 ---
 
