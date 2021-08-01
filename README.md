@@ -1,4 +1,4 @@
-## Hi There! I'm Jordan2139 👋 ![](https://komarev.com/ghpvc/?username=jordan2139&label=Views&color=lightgrey&style=flat) [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://jordan2139.me/discord) [![Website Badge](https://img.shields.io/badge/Website-9B9B9B?style=flat-square&logo=google-chrome&logoColor=white)](https://jordan2139.me/)
+## Hi There! I'm Jordan2139 👋 ![](https://komarev.com/ghpvc/?username=jordan2139&label=Views&color=ff69b4&style=flat) [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat&logo=Discord&logoColor=white&color=ff69b4)](https://jordan2139.me/discord) [![Website Badge](https://img.shields.io/badge/Website-9B9B9B?style=flat&logo=google-chrome&logoColor=white&color=ff69b4)](https://jordan2139.me/)
 
 ---
 ```lua
