@@ -11,7 +11,7 @@ Jordan = {
   BetterThanU = true
 }
 
-while BetterThanU do 
+while Jordan.BetterThanU do 
   print('get shit on lol')
 end
 ```
