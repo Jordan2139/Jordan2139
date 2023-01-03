@@ -1,5 +1,4 @@
-## Hi There! I'm Jordan2139 👋 ![](https://komarev.com/ghpvc/?username=jordan2139&label=Views&color=ff69b4&style=flat) [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat&logo=Discord&logoColor=white&color=ff69b4)](https://jordan2139.me/discord) [![Website Badge](https://img.shields.io/badge/Website-9B9B9B?style=flat&logo=google-chrome&logoColor=white&color=ff69b4)](https://jordan2139.me/)
-
+## Hi There! I'm Jordan2139 👋 ![](https://komarev.com/ghpvc/?username=jordan2139&label=Views&color=ff69b4&style=flat) [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat&logo=Discord&logoColor=white&color=ff69b4)](https://jordan2139.me/discord) [![Website Badge](https://img.shields.io/badge/Website-9B9B9B?style=flat&logo=google-chrome&logoColor=white&color=ff69b4)](https://jordan2139.me/) [![wakatime](https://wakatime.com/badge/user/b3e6a159-032c-440b-9f92-bd8665061cc6.svg)](https://wakatime.com/@b3e6a159-032c-440b-9f92-bd8665061cc6)
 ---
 ```lua
 Jordan = {
