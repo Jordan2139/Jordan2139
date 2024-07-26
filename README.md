@@ -2,7 +2,8 @@
 ---
 ```lua
 Jordan = {
-  Graduation = 2023,
+  Graduation = 2027,
+  Degree = "Criminal Justice",
   Known_Languages = { "JavaScript", "Node.JS", "Express.JS", "MYSQL", "Lua", "C#", "HTML/CSS", "PHP", "Java", "Python" },
   YouTube = "https://www.youtube.com/c/jordan2139",
   Website = "https://jordan2139.me",
@@ -10,7 +11,8 @@ Jordan = {
   BetterThanU = true
 }
 
-while Jordan.BetterThanU do 
+while Jordan.BetterThanU do
+  Wait(0)
   print('get shit on lol')
 end
 ```
